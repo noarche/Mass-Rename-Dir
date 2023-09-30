@@ -8,3 +8,37 @@ When prompted, enter the delimiter to split by
 example; 
 
 If the subdirectory name is "papas.pizza.(2017)-2018" and the user input ".(" as the delimiter the end resullt is "papas.pizza"
+
+
+
+# fileOrganizer
+
+Organize Files - moves files to a new dir based on first letter.
+
+I use this script to organize my MOVIES dir. 
+
+
+# FileGeneratorv1
+
+Create new directory use " -" as delimiter
+.....................................................
+
+I use this script to create new directorys in my music directory
+
+Example:
+
+Suppose we have a directory with the following subdirectories:
+
+Music - Rock
+
+Movies - Action
+
+Movies - Drama
+
+After running the script on this directory, the directory structure will become:
+
+Music
+Music - Rock
+Movies
+Movies - Action
+Movies - Drama
