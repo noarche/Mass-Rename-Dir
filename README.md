@@ -42,3 +42,8 @@ Music - Rock
 Movies
 Movies - Action
 Movies - Drama
+
+
+
+[![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche)](https://github.com/noarche/github-readme-stats)
+
