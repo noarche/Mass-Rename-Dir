@@ -1,4 +1,6 @@
 # Mass-Rename-Dir
+
+
 Rename directorys
 
 When prompted, enter the directory where you want to rename subdirectories.
@@ -45,4 +47,18 @@ Movies - Drama
 
 
 ![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
+
+
+
+Update:
+MASS RENAME BY  DELIMITER
+Mass-Rename-v1.2.1.py
+
+Ask user if renaming directorys or files
+
+Ask  user to input delimiter. 
+
+rename as original filename but Remove all text found including/after delimiter.
+
+
 
