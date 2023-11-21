@@ -51,7 +51,9 @@ Movies - Drama
 
 
 Update:
+
 MASS RENAME BY  DELIMITER
+
 Mass-Rename-v1.2.1.py
 
 Ask user if renaming directorys or files
@@ -61,4 +63,8 @@ Ask  user to input delimiter.
 rename as original filename but Remove all text found including/after delimiter.
 
 
+Update:
 
+Rename-by-delimiter-in-front-or-back-optional.py will rename directory and strip text from front or back of delimiter provided. 
+
+delimiter+dir+organize.py will create folder and move files into folder based on user delimeter. 
